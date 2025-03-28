@@ -1,0 +1,126 @@
+{
+    "personal_info": {
+        "first_name": "Maitén",
+        "second_name": "Guadalupe",
+        "last_name": "Blanc",
+        "email": "maitengblanc@gmail.com",
+        "phone": "+54 3442-575618",
+        "location": {
+            "country": "Argentina",
+            "city": "Concepción del Uruguay",
+            "state": "Entre Ríos"
+        },
+        "linkedin": "https://www.linkedin.com/in/maiten-guadalupe-blanc/",
+        "website": "",
+        "portfolio": "https://maitenblanc.github.io/Portfolio-MB/",
+        "summary": "Estudiante de Licenciatura en Sistemas de Información con experiencia en soporte técnico, desarrollo de software y análisis de datos. Proactiva, con habilidades para el trabajo en equipo, resolución de problemas y aprendizaje rápido. Busco aportar mis conocimientos y continuar desarrollándome en entornos desafiantes."
+    },
+    "work_experience": [
+        {
+            "job_title": "Desarrolladora de Software",
+            "company": "Intes Consulting",
+            "location": "Concepción del Uruguay, Entre Ríos, Argentina",
+            "start_date": "2023-09-11",
+            "end_date": "2024-01-12",
+            "currently_working": false,
+            "responsibilities": [
+                "Desarrollo de aplicaciones web utilizando Deyel (Low-Code).",
+                "Implementación y mantenimiento de sistemas CRM.",
+                "Creación y desarrollo de páginas web."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Soporte Técnico / Analista",
+            "company": "Zona Troya",
+            "location": "",
+            "start_date": "2022-03-03",
+            "end_date": "2023-07-20",
+            "currently_working": false,
+            "responsibilities": [
+                "Soporte técnico en niveles L1, L2 y L3.",
+                "Análisis de sistemas e infraestructura.",
+                "Desarrollo y mantenimiento de scripts PL/SQL en Oracle."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        },
+        {
+            "job_title": "Reparación de equipos informáticos",
+            "company": "Freelance",
+            "location": "",
+            "start_date": "2016-03-01",
+            "end_date": "",
+            "currently_working": true,
+            "responsibilities": [
+                "Formateo y reparación de hardware.",
+                "Instalación y configuración de software."
+            ],
+            "achievements": [],
+            "repository_url": ""
+        }
+    ],
+    "education": [
+        {
+            "degree": "Licenciatura en Sistemas de Información",
+            "institution": "Universidad Autónoma De Entre Ríos - Facultad de Ciencia y Tecnología",
+            "location": "Concepción del Uruguay, Entre Ríos, Argentina",
+            "start_date": "2024-02-05",
+            "end_date": ""
+        },
+        {
+            "degree": "Ingeniería en Sistemas de Información",
+            "institution": "Universidad Tecnológica Nacional - Facultad Regional de Concepción del Uruguay",
+            "location": "Concepción del Uruguay, Entre Ríos, Argentina",
+            "start_date": "2022-03-01",
+            "end_date": "2024-01-01",
+        },
+        {
+            "degree": "Ingeniería Civil",
+            "institution": "Universidad Tecnológica Nacional - Facultad Regional de Concepción del Uruguay",
+            "location": "Concepción del Uruguay, Entre Ríos, Argentina",
+            "start_date": "2018-01-01",
+            "end_date": "2022-02-10",
+        }
+    ],
+    "skills": {
+        "keywords": {
+            "technical": [
+                "php",
+                "java",
+                "spring-boot",
+                "python",
+                "mysql",
+                "mongodb",
+                "oracle",
+                "javascript",
+                "typescript",
+                "react.js",
+                "angular",
+                "node.js",
+                "nest.js"
+            ],
+            "soft": [
+                "trabajo en equipo",
+                "resolución de problemas",
+                "aprendizaje rápido"
+            ],
+            "tools": [
+                "git",
+                "github",
+                "bootstrap",
+                "power bi",
+                "sql",
+                "power pivot",
+                "power query"
+            ]
+        }
+    },
+    "languages": [
+        {
+            "language": "Inglés",
+            "proficiency": "Intermedio (B2.1)"
+        }
+    ]
+}
